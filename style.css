@@ -1,0 +1,82 @@
+body{
+    width:1200px;
+    margin:auto;
+}
+
+
+
+.navi{
+    background-color:black;
+    display:flex;
+    justify-content:start;
+    width:100%;
+
+}
+
+.navi td{
+    padding:20px;
+}
+
+a{
+    text-decoration:none;
+    color:white;
+    font-family:fantasy;
+}
+
+a:hover{
+   color:dodgerblue;
+}
+
+#pleft{
+    float:left;
+    width:40%;
+    margin-top:30px;
+    margin-bottom:250px;
+}
+
+#pright{
+    float:right;
+    width:50%;
+    margin-top:30px;
+    margin-bottom:250px;
+}
+
+#fb{
+    width:100px;
+    height:100px;
+    margin:6px;
+}
+
+#ig{
+    width:100px;
+    height:100px;
+    margin:6px;
+}
+
+#gm{
+    width:126px;
+    height:100px;
+    margin:6px;
+}
+
+#ou{
+    width:100px;
+    height:100px;
+    margin:6px;
+}
+
+#ppp{
+    width:1192px;
+    border-style: solid;
+    border-color:dodgerblue;
+    border-width:4px;
+
+}
+
+#pright h2{
+    align-content:center;
+}
+
+#telo{
+    background: url("background.jpg") repeat;
+}

@@ -1,0 +1,63 @@
+body{
+    width:1200px;
+    margin:auto;
+}
+
+
+
+.navi{
+    background-color:black;
+    display:flex;
+    justify-content:start;
+    width:100%;
+
+}
+
+.navi td{
+    padding:20px;
+}
+
+a{
+    text-decoration:none;
+    color:white;
+    font-family:fantasy;
+}
+
+a:hover{
+    color:dodgerblue;
+}
+
+#con a{
+    color:dodgerblue;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#con a:hover{
+    background-color:black;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#con{
+    width:1200px;
+    margin:auto;
+    padding-top:30px;
+    padding-bottom:30px;
+    border-top-style: solid;
+    border-top-color:dodgerblue;
+    border-top-width:8px;
+    background: url("background.jpg");
+}
+
+#imgcon{
+    width:1200px;
+    margin:auto;
+    margin-left:200px;
+}
+
+#imgcon img{
+    width:800px;
+    margin:auto;
+}
+#tcon{
+    margin-left:150px;
+}
